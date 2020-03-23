@@ -1,0 +1,5 @@
+search p
+
+!mkdir client
+shell mkdir client
+delete

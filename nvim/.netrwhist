@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/home/george/Projects/cypress-example-todomvc/cypress/integration'
+let g:netrw_dirhist_6='/home/george/Projects/cypress-example-todomvc/cypress'
+let g:netrw_dirhist_5='/home/george/Projects/cypress-example-todomvc'
+let g:netrw_dirhist_4='/home/george/.i3'
+let g:netrw_dirhist_3='/home/george'
+let g:netrw_dirhist_2='/home/george/.i3'
+let g:netrw_dirhist_1='/home/george'
